@@ -1,0 +1,122 @@
+2021-11-24 09:36:53.5802 Info Message Template Auto Format enabled
+2021-11-24 09:36:53.5802 Info Loading assembly: NLog.Web.AspNetCore
+2021-11-24 09:36:53.6413 Info Adding target FileTarget(Name=allfile)
+2021-11-24 09:36:53.6413 Info Adding target FileTarget(Name=ownFile-web)
+2021-11-24 09:36:53.6413 Info Adding target ConsoleTarget(Name=lifetimeConsole)
+2021-11-24 09:36:53.6760 Info Validating config: TargetNames=allfile, lifetimeConsole, ownFile-web, ConfigItems=80, FilePath=C:\Users\l\Source\Repos\Squabble-Server\bin\Debug\net5.0\NLog.config
+2021-11-24 09:36:53.6923 Info Configuration initialized.
+2021-11-24 09:36:53.6923 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.12.301. Product version: 4.7.12+1c2aa4e3677a17a65b73beee5881e8b8e1b7fc18. GlobalAssemblyCache: False
+2021-11-24 09:36:55.1275 Info AppDomain Shutting down. Logger closing...
+2021-11-24 09:36:55.1412 Info Logger has been shut down.
+2021-11-24 09:38:10.2789 Info Message Template Auto Format enabled
+2021-11-24 09:38:10.2839 Info Loading assembly: NLog.Web.AspNetCore
+2021-11-24 09:38:10.3078 Info Adding target FileTarget(Name=allfile)
+2021-11-24 09:38:10.3078 Info Adding target FileTarget(Name=ownFile-web)
+2021-11-24 09:38:10.3100 Info Adding target ConsoleTarget(Name=lifetimeConsole)
+2021-11-24 09:38:10.3100 Info Validating config: TargetNames=allfile, lifetimeConsole, ownFile-web, ConfigItems=80, FilePath=C:\Users\l\Source\Repos\Squabble-Server\bin\Debug\net5.0\NLog.config
+2021-11-24 09:38:10.3336 Info Configuration initialized.
+2021-11-24 09:38:10.3336 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.12.301. Product version: 4.7.12+1c2aa4e3677a17a65b73beee5881e8b8e1b7fc18. GlobalAssemblyCache: False
+2021-11-24 09:38:11.0503 Info AppDomain Shutting down. Logger closing...
+2021-11-24 09:38:11.0503 Info Logger has been shut down.
+2021-11-24 10:37:06.6671 Info Message Template Auto Format enabled
+2021-11-24 10:37:06.6725 Info Loading assembly: NLog.Web.AspNetCore
+2021-11-24 10:37:06.6976 Info Adding target FileTarget(Name=allfile)
+2021-11-24 10:37:06.6976 Info Adding target FileTarget(Name=ownFile-web)
+2021-11-24 10:37:06.7004 Info Adding target ConsoleTarget(Name=lifetimeConsole)
+2021-11-24 10:37:06.7004 Info Validating config: TargetNames=allfile, lifetimeConsole, ownFile-web, ConfigItems=80, FilePath=C:\Users\l\Source\Repos\Squabble-Server\bin\Debug\net5.0\NLog.config
+2021-11-24 10:37:06.7239 Info Configuration initialized.
+2021-11-24 10:37:06.7239 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.12.301. Product version: 4.7.12+1c2aa4e3677a17a65b73beee5881e8b8e1b7fc18. GlobalAssemblyCache: False
+2021-11-24 10:37:07.6052 Info AppDomain Shutting down. Logger closing...
+2021-11-24 10:37:07.6137 Info Logger has been shut down.
+2021-11-24 10:41:03.1741 Info Message Template Auto Format enabled
+2021-11-24 10:41:03.1874 Info Loading assembly: NLog.Web.AspNetCore
+2021-11-24 10:41:03.2322 Info Adding target FileTarget(Name=allfile)
+2021-11-24 10:41:03.2436 Info Adding target FileTarget(Name=ownFile-web)
+2021-11-24 10:41:03.2436 Info Adding target ConsoleTarget(Name=lifetimeConsole)
+2021-11-24 10:41:03.2868 Info Validating config: TargetNames=allfile, lifetimeConsole, ownFile-web, ConfigItems=80, FilePath=C:\Users\l\Source\Repos\Squabble-Server\bin\Debug\net5.0\nlog.config
+2021-11-24 10:41:06.3862 Info AppDomain Shutting down. Logger closing...
+2021-11-24 10:41:06.3964 Info Logger has been shut down.
+2021-11-24 10:41:11.5818 Info Message Template Auto Format enabled
+2021-11-24 10:41:11.5818 Info Loading assembly: NLog.Web.AspNetCore
+2021-11-24 10:41:11.6098 Info Adding target FileTarget(Name=allfile)
+2021-11-24 10:41:11.6098 Info Adding target FileTarget(Name=ownFile-web)
+2021-11-24 10:41:11.6098 Info Adding target ConsoleTarget(Name=lifetimeConsole)
+2021-11-24 10:41:11.6244 Info Validating config: TargetNames=allfile, lifetimeConsole, ownFile-web, ConfigItems=80, FilePath=C:\Users\l\Source\Repos\Squabble-Server\bin\Debug\net5.0\NLog.config
+2021-11-24 10:41:11.6244 Info Configuration initialized.
+2021-11-24 10:41:11.6244 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.12.301. Product version: 4.7.12+1c2aa4e3677a17a65b73beee5881e8b8e1b7fc18. GlobalAssemblyCache: False
+2021-11-24 10:41:12.2678 Info AppDomain Shutting down. Logger closing...
+2021-11-24 10:41:12.2678 Info Logger has been shut down.
+2021-11-24 10:42:19.7441 Info Message Template Auto Format enabled
+2021-11-24 10:42:19.7493 Info Loading assembly: NLog.Web.AspNetCore
+2021-11-24 10:42:19.7777 Info Adding target FileTarget(Name=allfile)
+2021-11-24 10:42:19.7789 Info Adding target FileTarget(Name=ownFile-web)
+2021-11-24 10:42:19.7789 Info Adding target ConsoleTarget(Name=lifetimeConsole)
+2021-11-24 10:42:19.7789 Info Validating config: TargetNames=allfile, lifetimeConsole, ownFile-web, ConfigItems=80, FilePath=C:\Users\l\Source\Repos\Squabble-Server\bin\Debug\net5.0\NLog.config
+2021-11-24 10:42:19.8019 Info Configuration initialized.
+2021-11-24 10:42:19.8019 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.12.301. Product version: 4.7.12+1c2aa4e3677a17a65b73beee5881e8b8e1b7fc18. GlobalAssemblyCache: False
+2021-11-24 10:42:20.6010 Info AppDomain Shutting down. Logger closing...
+2021-11-24 10:42:20.6093 Info Logger has been shut down.
+2021-11-24 10:42:39.2533 Info Message Template Auto Format enabled
+2021-11-24 10:42:39.2533 Info Loading assembly: NLog.Web.AspNetCore
+2021-11-24 10:42:39.2952 Info Adding target FileTarget(Name=allfile)
+2021-11-24 10:42:39.2952 Info Adding target FileTarget(Name=ownFile-web)
+2021-11-24 10:42:39.2952 Info Adding target ConsoleTarget(Name=lifetimeConsole)
+2021-11-24 10:42:39.3175 Info Validating config: TargetNames=allfile, lifetimeConsole, ownFile-web, ConfigItems=80, FilePath=C:\Users\l\Source\Repos\Squabble-Server\bin\Debug\net5.0\NLog.config
+2021-11-24 10:42:39.3264 Info Configuration initialized.
+2021-11-24 10:42:39.3264 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.12.301. Product version: 4.7.12+1c2aa4e3677a17a65b73beee5881e8b8e1b7fc18. GlobalAssemblyCache: False
+2021-11-24 10:42:39.9344 Info AppDomain Shutting down. Logger closing...
+2021-11-24 10:42:39.9443 Info Logger has been shut down.
+2021-11-24 12:17:33.8874 Info Message Template Auto Format enabled
+2021-11-24 12:17:33.9004 Info Loading assembly: NLog.Web.AspNetCore
+2021-11-24 12:17:33.9377 Info Adding target FileTarget(Name=allfile)
+2021-11-24 12:17:33.9377 Info Adding target FileTarget(Name=ownFile-web)
+2021-11-24 12:17:33.9377 Info Adding target ConsoleTarget(Name=lifetimeConsole)
+2021-11-24 12:17:33.9851 Info Validating config: TargetNames=allfile, lifetimeConsole, ownFile-web, ConfigItems=80, FilePath=E:\Bachelor Of Info Tech\Programming Project 1\24TH version Squabble\Squabble-Server-main\bin\Debug\net5.0\nlog.config
+2021-11-24 21:44:33.6914 Info Message Template Auto Format enabled
+2021-11-24 21:44:33.7129 Info Loading assembly: NLog.Web.AspNetCore
+2021-11-24 21:44:33.7746 Info Adding target FileTarget(Name=allfile)
+2021-11-24 21:44:33.8159 Info Adding target FileTarget(Name=ownFile-web)
+2021-11-24 21:44:33.8159 Info Adding target ConsoleTarget(Name=lifetimeConsole)
+2021-11-24 21:44:33.8666 Info Validating config: TargetNames=allfile, lifetimeConsole, ownFile-web, ConfigItems=80, FilePath=E:\Bachelor Of Info Tech\Programming Project 1\24TH version Squabble\Squabble-Server-main\bin\Debug\net5.0\nlog.config
+2021-11-25 07:40:25.4767 Info Message Template Auto Format enabled
+2021-11-25 07:40:25.4938 Info Loading assembly: NLog.Web.AspNetCore
+2021-11-25 07:40:25.5285 Info Adding target FileTarget(Name=allfile)
+2021-11-25 07:40:25.5489 Info Adding target FileTarget(Name=ownFile-web)
+2021-11-25 07:40:25.5489 Info Adding target ConsoleTarget(Name=lifetimeConsole)
+2021-11-25 07:40:25.5780 Info Validating config: TargetNames=allfile, lifetimeConsole, ownFile-web, ConfigItems=80, FilePath=E:\Bachelor Of Info Tech\Programming Project 1\24TH version Squabble\Squabble-Server-main\bin\Debug\net5.0\nlog.config
+2021-11-25 17:54:59.1357 Info Message Template Auto Format enabled
+2021-11-25 17:54:59.1504 Info Loading assembly: NLog.Web.AspNetCore
+2021-11-25 17:54:59.1882 Info Adding target FileTarget(Name=allfile)
+2021-11-25 17:54:59.1882 Info Adding target FileTarget(Name=ownFile-web)
+2021-11-25 17:54:59.1882 Info Adding target ConsoleTarget(Name=lifetimeConsole)
+2021-11-25 17:54:59.2268 Info Validating config: TargetNames=allfile, lifetimeConsole, ownFile-web, ConfigItems=80, FilePath=E:\Bachelor Of Info Tech\Programming Project 1\24TH version Squabble\Squabble-Server-main\bin\Debug\net5.0\nlog.config
+2021-11-25 18:15:09.2192 Info Message Template Auto Format enabled
+2021-11-25 18:15:09.2427 Info Loading assembly: NLog.Web.AspNetCore
+2021-11-25 18:15:09.2805 Info Adding target FileTarget(Name=allfile)
+2021-11-25 18:15:09.2805 Info Adding target FileTarget(Name=ownFile-web)
+2021-11-25 18:15:09.2805 Info Adding target ConsoleTarget(Name=lifetimeConsole)
+2021-11-25 18:15:09.3231 Info Validating config: TargetNames=allfile, lifetimeConsole, ownFile-web, ConfigItems=80, FilePath=E:\Bachelor Of Info Tech\Programming Project 1\24TH version Squabble\Squabble-Server-main\bin\Debug\net5.0\nlog.config
+2021-11-25 18:19:39.7372 Info Message Template Auto Format enabled
+2021-11-25 18:19:39.7899 Info Loading assembly: NLog.Web.AspNetCore
+2021-11-25 18:19:39.8824 Info Adding target FileTarget(Name=allfile)
+2021-11-25 18:19:39.8986 Info Adding target FileTarget(Name=ownFile-web)
+2021-11-25 18:19:39.8986 Info Adding target ConsoleTarget(Name=lifetimeConsole)
+2021-11-25 18:19:39.9542 Info Validating config: TargetNames=allfile, lifetimeConsole, ownFile-web, ConfigItems=80, FilePath=E:\Bachelor Of Info Tech\Programming Project 1\24TH version Squabble\Squabble-Server-main\bin\Debug\net5.0\nlog.config
+2021-11-26 09:27:04.3098 Info Message Template Auto Format enabled
+2021-11-26 09:27:04.3299 Info Loading assembly: NLog.Web.AspNetCore
+2021-11-26 09:27:04.3644 Info Adding target FileTarget(Name=allfile)
+2021-11-26 09:27:04.3753 Info Adding target FileTarget(Name=ownFile-web)
+2021-11-26 09:27:04.3753 Info Adding target ConsoleTarget(Name=lifetimeConsole)
+2021-11-26 09:27:04.4047 Info Validating config: TargetNames=allfile, lifetimeConsole, ownFile-web, ConfigItems=80, FilePath=E:\Bachelor Of Info Tech\Programming Project 1\24TH version Squabble\Squabble-Server-main\bin\Debug\net5.0\nlog.config
+2021-11-26 14:09:27.8153 Info Message Template Auto Format enabled
+2021-11-26 14:09:27.8281 Info Loading assembly: NLog.Web.AspNetCore
+2021-11-26 14:09:27.8622 Info Adding target FileTarget(Name=allfile)
+2021-11-26 14:09:27.8840 Info Adding target FileTarget(Name=ownFile-web)
+2021-11-26 14:09:27.8840 Info Adding target ConsoleTarget(Name=lifetimeConsole)
+2021-11-26 14:09:27.9220 Info Validating config: TargetNames=allfile, lifetimeConsole, ownFile-web, ConfigItems=80, FilePath=E:\Bachelor Of Info Tech\Programming Project 1\24TH version Squabble\Squabble-Server-main\bin\Debug\net5.0\nlog.config
+2021-11-27 09:47:58.4822 Info Message Template Auto Format enabled
+2021-11-27 09:47:58.4991 Info Loading assembly: NLog.Web.AspNetCore
+2021-11-27 09:47:58.5357 Info Adding target FileTarget(Name=allfile)
+2021-11-27 09:47:58.5357 Info Adding target FileTarget(Name=ownFile-web)
+2021-11-27 09:47:58.5456 Info Adding target ConsoleTarget(Name=lifetimeConsole)
+2021-11-27 09:47:58.5770 Info Validating config: TargetNames=allfile, lifetimeConsole, ownFile-web, ConfigItems=80, FilePath=E:\Bachelor Of Info Tech\Programming Project 1\24TH version Squabble\Squabble-Server-main\bin\Debug\net5.0\nlog.config
